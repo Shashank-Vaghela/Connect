@@ -42,13 +42,13 @@ To set up the project locally, follow these steps:
 2. **Set up environment variables: Create a .env file in the root directory and add the following variables**:
 
 
--MONGO_URI=your_mongodb_connection_string
--JWT_SECRET=your_jwt_secret_key
--NODE_ENV=DEVELOPMENT
--CLIENT_URL='http://localhost:5173/'
--CLOUDINARY_CLOUD_NAME=your_cloud_name
--CLOUDINARY_API_KEY=your_cloud_api_key
--CLOUDINARY_API_SECRET=your_cloud_api_secret
+- **MONGO_URI=your_mongodb_connection_string**
+- **JWT_SECRET=your_jwt_secret_key**
+- **NODE_ENV=DEVELOPMENT**
+- **CLIENT_URL='http://localhost:5173/'**
+- **CLOUDINARY_CLOUD_NAME=your_cloud_name**
+- **CLOUDINARY_API_KEY=your_cloud_api_key**
+- **CLOUDINARY_API_SECRET=your_cloud_api_secret**
 
 3. **Install dependencies**:
 
